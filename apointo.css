@@ -1,0 +1,89 @@
+#weigh_me:hover{
+  cursor:pointer;
+}
+#weigh_me{
+	color:blue;
+	font-weight:normal;
+	display:inline;
+	text-decoration:underline;
+}
+.weigh_me{
+	display:none;
+}
+#spectrum{
+	width:10vw;
+  margin-left:72.5%;
+}
+#spectrum img{
+  width:8vw;
+}
+.newer_older{
+	font-size:10px;
+	overflow:visible;
+}
+#newer{
+  margin-left:-5px;
+}
+#btn-gpa{
+  height:30px;
+}
+.gpa-table{
+  width: 20%;
+}
+#year_select{
+	margin-left:2%;
+}
+.custom_table tr:nth-child(even){
+	background-color:#ededed;
+}
+.grades_table{
+	display:block;
+	width:500px;
+	float:left;
+	height:40vh;
+	overflow-y:scroll;
+}
+.grades_table tr td{
+	display:inline-block;
+	overflow:hidden;
+	white-space:nowrap;
+}
+.check_box{
+	width:4vw;
+}
+.class_name{
+	width:15vw;
+}
+.weighted_title{
+  float:right;
+  margin-right:15px;
+}
+.include_title{
+  float:right;
+  margin-right:30px;
+}
+#gpa_div{
+  text-align:center;
+  width:100%;
+}
+.gpa_title{
+  text-align:center;
+  display:inline;
+
+}
+.gpa{
+  display:inline;
+  font-size:24pt;
+}
+.weighted_link{
+  float:left;
+}
+.gpa_image{
+  height:inherit;
+  display:inline;
+  margin-left:3%;
+}
+#btn-gpa a{
+  display:inline-block !important;
+  margin-left:-22%;
+}
